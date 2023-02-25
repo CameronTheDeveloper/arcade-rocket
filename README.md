@@ -8,4 +8,6 @@ I created animations in Unity that appear in the game under various conditions. 
 
 I implemented particles using the Unity Particle System for the rocket's smoke and fire trail. There are also particles that appear when an explosion occurs.
 
+The Unity package containing my complete project is on Master branch.
+
 Imported assets are owned by Code Ninjas.
